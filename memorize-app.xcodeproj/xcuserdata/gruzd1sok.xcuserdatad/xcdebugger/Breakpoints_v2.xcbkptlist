@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "45A2FDEB-2194-4927-B174-5444C64616DC"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D639C40D-F352-4160-BF7E-758B20BB9F60"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memorize-app/EmojiMemoryGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "createMemoryGame()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "17AF05E5-ED98-44B6-8DD7-95ACFB8639B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memorize-app/MemoryGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "init(numbersOfPairsOfCards:cardContentFactory:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E19F1835-4E12-434A-A7EB-76A685623595"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "memorize-app/EmojiMemoryGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "createMemoryGame()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E19F1835-4E12-434A-A7EB-76A685623595 - 111101e912fe3292"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static memorize_app.EmojiMemoryGame.createMemoryGame() -&gt; memorize_app.MemoryGame&lt;Swift.String&gt;"
+                  moduleName = "memorize-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gruzd1sok/Documents/xcode/memorize-app/memorize-app/EmojiMemoryGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "E19F1835-4E12-434A-A7EB-76A685623595 - b147c653d5261415"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Int) -&gt; Swift.String in static memorize_app.EmojiMemoryGame.createMemoryGame() -&gt; memorize_app.MemoryGame&lt;Swift.String&gt;"
+                  moduleName = "memorize-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gruzd1sok/Documents/xcode/memorize-app/memorize-app/EmojiMemoryGame.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
